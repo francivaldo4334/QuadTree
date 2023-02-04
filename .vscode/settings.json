@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/fr/Downloads/FastaValidator-1.0.jar"
+    ]
+}
